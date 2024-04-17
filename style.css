@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+.Aviya{
+    height: 300px;
+    
+}
+.overlay{
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.788);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
