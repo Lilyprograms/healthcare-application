@@ -182,3 +182,23 @@ body {
     font-size: 40px;
     color: #05B2E6;
 }
+.images{
+    background-image: url(./images/Doctors_For_Men-732x549-thumbnail.avif);
+    height: 1400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.write_up{
+    font-size: 60px;
+    color:black;
+    font-style: italic;
+    text-align: center;
+    padding-top: 50px;
+}
+.torn{
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 400px;
+}
