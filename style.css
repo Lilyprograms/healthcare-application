@@ -647,3 +647,16 @@ body {
     display: flex;
     color: red;
 }
+
+.img2 {
+    background-image: url(./images/image35.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #eeeeee;
+}
