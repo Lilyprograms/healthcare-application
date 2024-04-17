@@ -337,3 +337,53 @@ body {
     text-align: center;
 }
 
+.image{
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 20px;
+    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url(./images/bg2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 500px;
+    position: relative;
+} 
+.txt{
+    display: flex;
+
+}
+.txt h1{
+    font-size: 35px;
+    font-family: sans-serif;
+    color: white;
+}
+.txt2 p{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: white;
+    text-align: left;
+    line-height: 2;
+}
+.lk{
+    display: grid;
+    justify-content: left;
+    align-items: center;
+    margin-left: 82px;
+}
+.lk a{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: blue;
+    text-decoration: none;
+    margin-left: -80px;
+    line-height: 2;
+}
+.support-text{
+    padding: 0 0 0 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
