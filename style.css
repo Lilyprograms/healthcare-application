@@ -14,19 +14,28 @@
 
 .sap {    
     justify-content: flex-start;
-    width: 1000px;
+    width: 1300px;
     height: 1000px;
+    margin: 20px 20px 40px 20px;
 }
+.sap2 {    
+    justify-content: flex-start;
+    width: 1700px;
+    height: 1000px;
+    margin: 20px 20px 40px 20px;
+}
+
 .head1 {
     font-weight: bold;
     font-size: 54px;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
-    text-align: left;
+    text-align: center;
 }
 .st1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 38px;
     font-style: normal;
     margin: 10px;
+    text-align: center;
 }
