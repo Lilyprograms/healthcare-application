@@ -240,3 +240,18 @@ body {
 .therapy-text-overlay p {
     margin: 5px 0;
 }
+
+.Aviya {
+    background: url(./images/doctor.jpg);
+    background-size: cover;
+    background-position: top;
+}
+
+.overlay {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
