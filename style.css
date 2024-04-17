@@ -396,7 +396,6 @@ body {
     justify-content: center;
 }
 
-
 /* chuka_branch */
 .grid-two {
     margin: 10px 0 0 0;
@@ -441,26 +440,14 @@ body {
     align-items: center;
 }
 
-/* .just { */
-
-
-.Medicare button {
-    border: none;
-    padding: 8px 20px;
-    background: blue;
-    color: white;
-    cursor: pointer;
-    font-weight: 800;
-}
-
-.Medicare {
+.just {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 100px;
     background-color: aliceblue;
-    /* height: 400px; */
+    height: 400px;
 }
 
 .just-2 {
@@ -488,8 +475,27 @@ body {
     text-transform: capitalize;
 }
 
+/* chuka_branch */
 
 
+.Medicare button {
+    border: none;
+    padding: 8px 20px;
+    background: blue;
+    color: white;
+    cursor: pointer;
+    font-weight: 800;
+}
+
+.Medicare {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    background-color: aliceblue;
+    /* height: 400px; */
+}
 
 /* styles for service section */
 
@@ -655,6 +661,7 @@ body {
     background-size: cover;
     height: 900px;
 }
+
 .footer {
     text-align: center;
     padding: 20px;
