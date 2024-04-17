@@ -387,3 +387,84 @@ body {
 }
 
 
+/* chuka_branch */
+.grid-two{
+    margin: 10px 0 0 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    gap: 10px;
+}
+
+.grid-items-two{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-items-two img{
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-items-two p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.health-insurance{
+    width: auto;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mental-health{
+    width: auto;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.just{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px; 
+    background-color: aliceblue;
+    height: 400px;
+}
+
+.just-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px; 
+    background-color: aliceblue;
+    height: 400px;
+}
+
+.grid-two p{
+    margin: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+
+.h3{
+    margin: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+
