@@ -3,3 +3,30 @@
     padding: 0;
     box-sizing: border-box;
 }
+.dim {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.ins1 {
+    padding: 20px;
+}
+
+.sap {    
+    justify-content: flex-start;
+    width: 1000px;
+    height: 1000px;
+}
+.head1 {
+    font-weight: bold;
+    font-size: 54px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    text-align: left;
+}
+.st1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 38px;
+    font-style: normal;
+    margin: 10px;
+}
