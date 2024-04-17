@@ -3,3 +3,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+.samad{
+    display: flex;
+    height: 400px;
+    background-color: aqua;
+    gap: 10px;
+}
+.ayo{
+    background-image: url(../healthcare-application/images/photo-1.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.ayo h1{
+    margin-top: 300px;
+    padding-left: 600px;
+}
+.ayo p{
+    padding-left: 600px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 16;
+}
