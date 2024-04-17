@@ -4,32 +4,34 @@
     box-sizing: border-box;
 }
 
-.navigation{
+.navigation {
     background-color: antiquewhite;
     display: flex;
     justify-content: space-between;
     padding: 10px;
-    box-shadow: 2px 2px 10px rgba(232, 232, 232, 0,5); 
- }
+    box-shadow: 2px 2px 10px rgba(232, 232, 232, 0, 5);
+}
 
- .navigation ul{
+.navigation ul {
     display: flex;
     gap: 20px;
     list-style: none;
 
- }
-  .navigation a {
+}
+
+.navigation a {
     text-decoration: none;
     color: black;
     padding: 10px 20ppx;
     display: block;
-  }
-  .navigation ul li:hover a{
+}
+
+.navigation ul li:hover a {
     background-color: black;
     color: #ffffff;
-  }
+}
 
- 
+
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -99,29 +101,60 @@ body {
     -ms-transform: scale(1.15);
     -o-transform: scale(1.15);
 }
-.HB{
+
+.HB {
     display: grid;
     grid-template-columns: 2fr 2fr;
     /* height: 300px; */
 }
-.HB-text{
+
+.HB-text {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     background-color: aqua;
     font-size: larger;
-    
+
 }
+
 .HB-text h2 {
     margin-top: 300px;
 }
-.HB-text button{
+
+.HB-text button {
     background-color: red;
     color: white;
     border-radius: 20px;
     height: 30px;
     width: 100px;
 }
-.HB-text button :hover{
+
+.HB-text button :hover {
     background-color: azure;
     color: black;
- }
+}
+
+.samad {
+    display: flex;
+    height: 400px;
+    background-color: aqua;
+    gap: 10px;
+}
+
+.ayo {
+    background-image: url(../healthcare-application/images/photo-1.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.ayo h1 {
+    margin-top: 300px;
+    padding-left: 600px;
+}
+
+.ayo p {
+    padding-left: 600px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 16;
+}
