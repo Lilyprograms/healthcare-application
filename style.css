@@ -4,17 +4,21 @@
     box-sizing: border-box;
 }
 .images{
-    background-image: url(./images/0_agQELAH5tZ5D2FCb.jpg);
+    background-image: url(./images/Doctors_For_Men-732x549-thumbnail.avif);
     height: 1400px;
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 .write_up{
     font-size: 60px;
-    color: white;
+    color:black;
     font-style: italic;
+    text-align: center;
+    padding-top: 50px;
 }
 .torn{
-    color: white;
+    color: black;
     font-size: 30px;
     font-style: italic;
     margin-top: 400px;
