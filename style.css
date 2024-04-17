@@ -3,3 +3,37 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.therapy-cont{
+    background-image: url(./images/steven-hwg-zBsdRTHIIm4-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    margin: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.therapy-text-overlay{
+    background-color: rgba(0, 0, 0, 0.607);
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.therapy-text-overlay button{
+    padding: 10px 20px;
+    width: fit-content;
+    background-color: #240619;
+    color: white;
+    border: none;
+    margin-top: 10px;
+}
+
+.therapy-text-overlay h1, .therapy-text-overlay p{
+    margin: 5px 0;
+}
