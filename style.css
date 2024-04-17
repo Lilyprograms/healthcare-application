@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.img2{
+    background-image: url(./images/image35.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
