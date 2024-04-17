@@ -3,3 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
+.parent_div{
+    background-image: url(./images/women_BG.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    text-align: center;
+}
+.text_x{
+    position: relative;
+    top: 300px;
+}
+.text_x h1{
+    font-size: 90px;
+    color: #05B2E6;
+}
+.text_x h2{
+    font-size: 40px;
+    color: #05B2E6;
+}
